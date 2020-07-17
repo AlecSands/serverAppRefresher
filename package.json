@@ -1,0 +1,22 @@
+{
+  "name": "serverapprefresher",
+  "version": "1.0.0",
+  "description": "Setting up a basic server and database through heroku",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlecSands/serverAppRefresher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlecSands/serverAppRefresher/issues"
+  },
+  "homepage": "https://github.com/AlecSands/serverAppRefresher#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
